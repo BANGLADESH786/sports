@@ -1,1 +1,1196 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="WORLD LIVE SPORTS",###### ARABIC ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917227&extension=ts&play_token=CvROtFv2cy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917226.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917226&extension=ts&play_token=kD0V4KJPoo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917225.png" group-title="WORLD LIVE SPORTS",AR| BEIN NEWS
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917225&extension=ts&play_token=YHZ13vSteN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917224.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 01 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917224&extension=ts&play_token=eXfcBAwsE1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917223.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 02 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917223&extension=ts&play_token=1bDqZcenol
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917222.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 03 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917222&extension=ts&play_token=KJrH6Uyxmc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917221.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 04 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917221&extension=ts&play_token=RcSpHFhFTT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917220.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 05 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917220&extension=ts&play_token=okBdYTl0An
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917219.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 06 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917219&extension=ts&play_token=eNsg0KGorP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917218.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 07 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917218&extension=ts&play_token=E67jyF9zSm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917217.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 08 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917217&extension=ts&play_token=Hk20bTG8Ds
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917216.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 09 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917216&extension=ts&play_token=6Mv6sKR4DD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917215.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 01 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917215&extension=ts&play_token=KEnowZTrSw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917214.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 02 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917214&extension=ts&play_token=ogHdb902r8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917213.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 03 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917213&extension=ts&play_token=ROGMJk0nv7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917212.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 04 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917212&extension=ts&play_token=EHmk3RPbWj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917211.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 05 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917211&extension=ts&play_token=kUcWu7Hwo3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917210.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 06 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917210&extension=ts&play_token=OzWoQa2Ksd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917209.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 07 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917209&extension=ts&play_token=GyAxTnp75w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917208.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 08 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917208&extension=ts&play_token=zb5VVze1XD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917207.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 09 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917207&extension=ts&play_token=m3MLlynH9H
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917206.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 1 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917206&extension=ts&play_token=0NMCRddJVB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917205.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 2 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917205&extension=ts&play_token=lfCtEB6WSn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917204.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 3 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917204&extension=ts&play_token=Sr7vdkkm25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917203.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 4 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917203&extension=ts&play_token=VOi3pxqdhX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917202.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 5 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917202&extension=ts&play_token=WOxmoXcr07
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917201.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 6 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917201&extension=ts&play_token=fG6ArikNHN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917200.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 7 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917200&extension=ts&play_token=Jp9rYB2QxV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917199.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 8 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917199&extension=ts&play_token=57SrvFDHhd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917198.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 9 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917198&extension=ts&play_token=1zrRysanan
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917197.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 01 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917197&extension=ts&play_token=MhYfcYA1lr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917196.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 02 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917196&extension=ts&play_token=1hfAWKfqmQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917195.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 03 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917195&extension=ts&play_token=trucjWXWvb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917194.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 04 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917194&extension=ts&play_token=iXedADz4Ek
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917193.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 05 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917193&extension=ts&play_token=ZDv8RMngZ4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917192.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 06 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917192&extension=ts&play_token=Gdr7vDQnJB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917191.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 07 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917191&extension=ts&play_token=Cm9hWCh8Il
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917190.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 08 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917190&extension=ts&play_token=z5OBgpcokA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917189.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 09 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917189&extension=ts&play_token=WmuBLc2w0r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917188.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT 01  EN
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917188&extension=ts&play_token=2Gb8QlqTO0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917187.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT XTRA 1 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917187&extension=ts&play_token=l5QjsA6FvA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917186.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT XTRA 2 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917186&extension=ts&play_token=1MPFldzwlv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917185.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT XTRA 3 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917185&extension=ts&play_token=kE1MMBKi8A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917184.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT XTRA 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917184&extension=ts&play_token=EWzmUMpkSW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917183.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT XTRA 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917183&extension=ts&play_token=GCpWdcX85N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917182.png" group-title="WORLD LIVE SPORTS",AR| BEIN SPORT XTRA 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917182&extension=ts&play_token=8sUH6SePfN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917181.png" group-title="WORLD LIVE SPORTS",AR| KASS LIVE EVENT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917181&extension=ts&play_token=qeY5JGGCAP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917180.png" group-title="WORLD LIVE SPORTS",AR| AL KASS 6
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917180&extension=ts&play_token=WVKSL68n4a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917179.png" group-title="WORLD LIVE SPORTS",AR| AL KASS 7
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917179&extension=ts&play_token=oeIyHiJVwA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917178.png" group-title="WORLD LIVE SPORTS",AR| AL KASS 8
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917178&extension=ts&play_token=yvCO9Il6DZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917161.png" group-title="WORLD LIVE SPORTS",AR| THMANYAH MINASA 1 HD MULTI AUDIO
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917161&extension=ts&play_token=EMtkri5oMh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917160.png" group-title="WORLD LIVE SPORTS",AR| THMANYAH MINASA 2 HD MULTI AUDIO
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917160&extension=ts&play_token=SFxRFaadeh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917159.png" group-title="WORLD LIVE SPORTS",AR| THMANYAH MINASA 3 HD MULTI AUDIO
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917159&extension=ts&play_token=PtZWkp4a31
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917158.png" group-title="WORLD LIVE SPORTS",AR| AD SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917158&extension=ts&play_token=q9XGedJ1R7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917157.png" group-title="WORLD LIVE SPORTS",AR| AD SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917157&extension=ts&play_token=omAOeZRAP6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917156.png" group-title="WORLD LIVE SPORTS",AR| AD SPORT SERIA 1 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917156&extension=ts&play_token=qVY417skqA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917155.png" group-title="WORLD LIVE SPORTS",AR| AD SPORT SERIA 2 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917155&extension=ts&play_token=7G9NuWqlQa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917154.png" group-title="WORLD LIVE SPORTS",AR| AD SPORT SERIA 3 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917154&extension=ts&play_token=VaKpXkJG9u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917153.png" group-title="WORLD LIVE SPORTS",AR| AD SPORT SERIA 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917153&extension=ts&play_token=RBShoopmrn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917152.png" group-title="WORLD LIVE SPORTS",AR| AD SPORT SERIA 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917152&extension=ts&play_token=hjjeA00BH3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917151.png" group-title="WORLD LIVE SPORTS",AR| AD SPORT SERIA 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917151&extension=ts&play_token=76Iu04KDw5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917150.png" group-title="WORLD LIVE SPORTS",AR| AD ASIA 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917150&extension=ts&play_token=pAQAFFnrbr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917149.png" group-title="WORLD LIVE SPORTS",AR| AD ASIA 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917149&extension=ts&play_token=fJ1SZiOciK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917148.png" group-title="WORLD LIVE SPORTS",AR| GOBX STC SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917148&extension=ts&play_token=MlxIetIOtb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917147.png" group-title="WORLD LIVE SPORTS",AR| GOBX STC SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917147&extension=ts&play_token=V2ImUUFmkB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917146.png" group-title="WORLD LIVE SPORTS",AR| GOBX STC SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917146&extension=ts&play_token=xiE7C7Qnrg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 1 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917177&extension=ts&play_token=ZEn8GeeTWf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 2 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917176&extension=ts&play_token=oq7LHabFgs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 3 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917175&extension=ts&play_token=XoutUkmNFK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 4 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917174&extension=ts&play_token=B12gMKdcfX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 5 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917173&extension=ts&play_token=tjaQfnIqLr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 6 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917172&extension=ts&play_token=oyHlDPzvtV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 7 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917171&extension=ts&play_token=8uKqO163cM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 8 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917170&extension=ts&play_token=D1Ou5ygdqr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 9 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917169&extension=ts&play_token=CP7MnIGnGK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 10 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917168&extension=ts&play_token=fwgACK5YzE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 11 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917167&extension=ts&play_token=6c2RryjYAZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png" group-title="WORLD LIVE SPORTS",AR| SHAHID BUNDESLIGA 12 720
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917166&extension=ts&play_token=KLPt0koYba
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1917639.png" group-title="WORLD LIVE SPORTS",###### UK ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917639&extension=ts&play_token=H0uir53EnT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/UFC1MAINEVENT.png" group-title="WORLD LIVE SPORTS",PPV| UFC 1 MAIN EVENT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=2034569&extension=ts&play_token=4g6PZYegAz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/WWEMAINEVENT.png" group-title="WORLD LIVE SPORTS",PPV| WWE MAIN EVENT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=2034570&extension=ts&play_token=YSv9yUwrxJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT NEWS
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917638&extension=ts&play_token=jw2ic0h8rm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT FOOTBALL
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917622&extension=ts&play_token=mgJZQDZWQn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT CRICKET
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917637&extension=ts&play_token=rFMjVVrMjV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT MAIN EVENT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917636&extension=ts&play_token=pDmKVYyHFP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT ACTION
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917635&extension=ts&play_token=G1Q7ccjr0p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT F1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917634&extension=ts&play_token=rsyKJJVURh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT GOLF
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917633&extension=ts&play_token=IigDLpF7TC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT MIX
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917632&extension=ts&play_token=DBlou2xFav
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT PLUS
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917631&extension=ts&play_token=3gLwGHinhi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT PRIME LIGE
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917630&extension=ts&play_token=hGSXAQ7IWm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT RACING
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917629&extension=ts&play_token=yoalk2D3xi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",UK| SKY SPORT TENNIS
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917628&extension=ts&play_token=rNkxbClic8
+#EXTINF:-1 tvg-logo="" group-title="WORLD LIVE SPORTS",UK| SKY WITNESS
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917627&extension=ts&play_token=qi1nyBd1FD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1917626.png" group-title="WORLD LIVE SPORTS",UK| TNT SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917626&extension=ts&play_token=fHkziGe3rP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1917625.png" group-title="WORLD LIVE SPORTS",UK| TNT SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917625&extension=ts&play_token=dibKdmPtuh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1917624.png" group-title="WORLD LIVE SPORTS",UK| TNT SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917624&extension=ts&play_token=479epNt2WX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1917623.png" group-title="WORLD LIVE SPORTS",UK| TNT SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917623&extension=ts&play_token=w64sxR65NO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1928001.png" group-title="WORLD LIVE SPORTS",UK| PREMIER SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1928001&extension=ts&play_token=kMGU0N82Y0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1928002.png" group-title="WORLD LIVE SPORTS",UK| PREMIER SPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1928002&extension=ts&play_token=lVuFIGYSsN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917566.png" group-title="WORLD LIVE SPORTS",###### NETHERLAND ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917566&extension=ts&play_token=WPyPk3ZYN8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917565.png" group-title="WORLD LIVE SPORTS",NL| ESPN 1 ZIGGO HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917565&extension=ts&play_token=71PaoNDoBC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917564.png" group-title="WORLD LIVE SPORTS",NL| ESPN 2 ZIGGO HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917564&extension=ts&play_token=uWMPijSyW4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917563.png" group-title="WORLD LIVE SPORTS",NL| ESPN 3 ZIGGO HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917563&extension=ts&play_token=RzVha3Nwj9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917562.png" group-title="WORLD LIVE SPORTS",NL| ESPN 4 ZIGGO HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917562&extension=ts&play_token=tMwqeOh5LJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917561.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917561&extension=ts&play_token=c2PtNuztWV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917560.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917560&extension=ts&play_token=9dkUASPbpC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917559.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917559&extension=ts&play_token=jcFtrYCp3P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917558.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917558&extension=ts&play_token=zfUrrNuHgG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917557.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917557&extension=ts&play_token=EANU3lDj5u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917556.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917556&extension=ts&play_token=iU1OUkpbeN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",NL| EUROSPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917555&extension=ts&play_token=WeFeaU5lbS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",NL| EUROSPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917554&extension=ts&play_token=DsauvHOK7z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917553.png" group-title="WORLD LIVE SPORTS",NL| ESPN ZIGGO HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917553&extension=ts&play_token=fMsRD8QCEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917552.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917552&extension=ts&play_token=yyOG0BQajb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917551.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT FREE 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917551&extension=ts&play_token=PLBQLfeJPy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917550.png" group-title="WORLD LIVE SPORTS",NL| ZIGGO SPORT FREE 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917550&extension=ts&play_token=ktWQE9lOc3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917549.png" group-title="WORLD LIVE SPORTS",NL| VIAPLAY TV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917549&extension=ts&play_token=PXJVFLWMtv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1917548.png" group-title="WORLD LIVE SPORTS",###### GERMANY ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917548&extension=ts&play_token=O2QN7Q7NdF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT NEWS HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917547&extension=ts&play_token=sog7Zt8PbR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT PREMIER LEAGUE HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917546&extension=ts&play_token=APA4UPlbaZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT TOP EVENT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917545&extension=ts&play_token=ZibQSACn0i
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT TENNIS HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917544&extension=ts&play_token=8njMaNRnI2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT GOLF HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917543&extension=ts&play_token=LPI7uPCSB4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT MIX HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917542&extension=ts&play_token=D4AfiUA3gZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",DE| EUROSPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917541&extension=ts&play_token=Mvw6SisBXf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917540&extension=ts&play_token=MdDoxjwxoK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917539&extension=ts&play_token=opWlO8gbLM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917538&extension=ts&play_token=g15iW2kM3W
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917537&extension=ts&play_token=5cMTRZyCvs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917536&extension=ts&play_token=OWQEyaOVSP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT 7 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917535&extension=ts&play_token=YVqIVkCezB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT 8 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917534&extension=ts&play_token=PJc4038QPC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT 9 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917533&extension=ts&play_token=Ut68yiOygb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917532&extension=ts&play_token=1cycZ3Vncu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917531&extension=ts&play_token=VnPXkevkz3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917530&extension=ts&play_token=RfIaiXMAbs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917529&extension=ts&play_token=0cUSMo6Z9x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917528&extension=ts&play_token=sooPFUw71m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917527&extension=ts&play_token=0ntns8FnlF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917526&extension=ts&play_token=qF3mMbWpz6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 7 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917525&extension=ts&play_token=yhsuV0oXJH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 8 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917524&extension=ts&play_token=u6vm0dcq2h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 9 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917523&extension=ts&play_token=uaIASDVw8B
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",DE| SKY SPORT BUNDESLIGA 10 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917522&extension=ts&play_token=23MpNsKv9C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 1 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917521&extension=ts&play_token=4vlnHoPL76
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 2 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917520&extension=ts&play_token=zkij2HmUWF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 3 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917519&extension=ts&play_token=QKDStIufxz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 4 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917518&extension=ts&play_token=9BsbG3vI7P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 5 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917517&extension=ts&play_token=1tNRBfBoiU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 6 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917516&extension=ts&play_token=z1tK4fKHJu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 7 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917515&extension=ts&play_token=g2VmpPF3NW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 8 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917514&extension=ts&play_token=J8nawZGm83
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 9 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917513&extension=ts&play_token=mPxAsgeYrI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 10 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917512&extension=ts&play_token=1UVbuoOlLM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 11 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917511&extension=ts&play_token=DnT44QplFY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 12 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917510&extension=ts&play_token=rovYsLcxUi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 13 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917509&extension=ts&play_token=vk2TYmP4mE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 14 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917508&extension=ts&play_token=j0Fe8xjIrs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 15 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917507&extension=ts&play_token=ePq0QZYQil
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 16 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917506&extension=ts&play_token=wKERZNfOZH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 17 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917505&extension=ts&play_token=3ESz1VTGvl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MYTEAM.png" group-title="WORLD LIVE SPORTS",DE| SPORT 18 - MYTEAMTV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917504&extension=ts&play_token=bNJyzHavtU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917503.png" group-title="WORLD LIVE SPORTS",###### FRANCE ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917503&extension=ts&play_token=SifZveGcuX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+ FOOT FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917483&extension=ts&play_token=Welprw0h1a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+ PREMIER LEAGUE FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917482&extension=ts&play_token=6M8CIw32Cv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+ SPORT FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917477&extension=ts&play_token=ZVIp5jGuQ1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+ SPORT 360 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917447&extension=ts&play_token=SwqpvrXsYr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+ FORMULA1 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917446&extension=ts&play_token=Fc0XjTYMRy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917445.png" group-title="WORLD LIVE SPORTS",FR| RMC SPORT 2 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917445&extension=ts&play_token=PBVClgtUXh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917443.png" group-title="WORLD LIVE SPORTS",FR| L'EQUIPE 21 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917443&extension=ts&play_token=x6mYgwm0vu
+#EXTINF:-1 tvg-logo="" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917398&extension=ts&play_token=iPy1HEZhTo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917397.png" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917397&extension=ts&play_token=z8RecxAUB7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917396.png" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917396&extension=ts&play_token=Hjdyx1pLt9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917395.png" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917395&extension=ts&play_token=ENSU05n9GA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917394.png" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917394&extension=ts&play_token=bXUWbWbU6K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917393.png" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917393&extension=ts&play_token=EIkp7NYFVS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917392.png" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 7 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917392&extension=ts&play_token=igtltwyXKC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917391.png" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 8 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917391&extension=ts&play_token=OX0eHd8RzZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917390.png" group-title="WORLD LIVE SPORTS",FR| LIGUE 1+ 9 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917390&extension=ts&play_token=Jr7TkWWP3x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 1 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917502&extension=ts&play_token=EKzIFa6N2g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 2 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917501&extension=ts&play_token=jxSsaJQZBt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 3 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917500&extension=ts&play_token=8OOk6bbM2A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 4 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917499&extension=ts&play_token=X4oeb6fnat
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 5 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917498&extension=ts&play_token=3wTGtTC11e
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 6 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917497&extension=ts&play_token=fE2YgNpRts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 7 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917496&extension=ts&play_token=xhIASC8KJj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 8 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917495&extension=ts&play_token=aoqWjX0LsF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 9 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917494&extension=ts&play_token=9B4hvFdX0j
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 10 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917493&extension=ts&play_token=J2AHimKGPx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 11 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917492&extension=ts&play_token=ltzc6hYt9I
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 12 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917491&extension=ts&play_token=CZDUheYAfu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 13 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917490&extension=ts&play_token=03iieMacwg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 14 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917489&extension=ts&play_token=BiMqpSFND5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 15 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917488&extension=ts&play_token=caeO2F0m56
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 16 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917487&extension=ts&play_token=TUvs1bURY8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 17 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917486&extension=ts&play_token=MoWcTBFMVx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 18 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917485&extension=ts&play_token=CuquYtB12R
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 19 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917484&extension=ts&play_token=jtpm0GwIwY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917416&extension=ts&play_token=nMkVHmYN6A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917415&extension=ts&play_token=xDb2550kKq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917414&extension=ts&play_token=GK0FXZUY6w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917413&extension=ts&play_token=G3SA3d8PBN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917412&extension=ts&play_token=TNmHoSCI0a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 7 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917411&extension=ts&play_token=7bjrm4Ppl8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 8 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917410&extension=ts&play_token=nYwZbJtyoO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 9 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917409&extension=ts&play_token=TP4b1mpN1y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 10 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917408&extension=ts&play_token=y5ucKfoOCk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 11 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917407&extension=ts&play_token=weep6l5tQT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 12 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917406&extension=ts&play_token=tF9o3CArfo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 13 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917405&extension=ts&play_token=YWdFMotVaQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 14 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917404&extension=ts&play_token=GSW7iL7uBy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 15 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917403&extension=ts&play_token=ABGt0UyIbD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 16 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917402&extension=ts&play_token=oSTj7JWwRH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 17 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917401&extension=ts&play_token=lftGJVnO8v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 18 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917400&extension=ts&play_token=VpoENiwWGd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",FR| CANAL+LIVE 19 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917399&extension=ts&play_token=d7LdXMhWtB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917476.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS 1 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917476&extension=ts&play_token=QsOOxtYi4x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917475.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS 2 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917475&extension=ts&play_token=CMqsfcDKzH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917474.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS 3 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917474&extension=ts&play_token=cFPIZTYSLe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917473&extension=ts&play_token=v5Vo0nvsxD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917472&extension=ts&play_token=ERS05EvG1y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917471&extension=ts&play_token=FU6HK1OtZ1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 7 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917470&extension=ts&play_token=3rQgc97Pmk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 8 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917469&extension=ts&play_token=iFdjTmTp8n
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 9 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917468&extension=ts&play_token=Zo8IspAhT4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 10 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917467&extension=ts&play_token=YY6vmiKUsR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917426.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917426&extension=ts&play_token=ZlOUoI1vVZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917425.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917425&extension=ts&play_token=fmXEmNtoMh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917424.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917424&extension=ts&play_token=9JgU8anDmK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 4 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917423&extension=ts&play_token=7ra3vlht39
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 5 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917422&extension=ts&play_token=gu1zVcTnAd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 6 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917421&extension=ts&play_token=pePiVnVnDa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 7 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917420&extension=ts&play_token=2amNauJvtW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 8 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917419&extension=ts&play_token=bQ5zX3Zcw9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 9 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917418&extension=ts&play_token=TzSqhymEIK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="WORLD LIVE SPORTS",FR| BEIN SPORTS MAX 10 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917417&extension=ts&play_token=PtHa1Kc9Xg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917481.png" group-title="WORLD LIVE SPORTS",FR| GOLF+ FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917481&extension=ts&play_token=Slu9IyXPeJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917480.png" group-title="WORLD LIVE SPORTS",FR| SPORT EN FRANCE
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917480&extension=ts&play_token=tZenX18fFB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917479.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917479&extension=ts&play_token=IrfGkQlLRb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917478.png" group-title="WORLD LIVE SPORTS",FR| AUTOMOTO LA CHAINE
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917478&extension=ts&play_token=HDTOxH4mhY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 1 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917466&extension=ts&play_token=SMvTqoNEVS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 2 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917465&extension=ts&play_token=W3jtY1AOhm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917464.png" group-title="WORLD LIVE SPORTS",FR| INFOSPORT+
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917464&extension=ts&play_token=jKrVfjLDW5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 360 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917463&extension=ts&play_token=g7MAJzsgMU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 360 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917462&extension=ts&play_token=1sZsTKkjVz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 360 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917461&extension=ts&play_token=O0JTpmVfcg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 360 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917460&extension=ts&play_token=AnzBClJlQi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 360 5
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917459&extension=ts&play_token=HR55d285vf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 360 6
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917458&extension=ts&play_token=doSKOijUIX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 360 7
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917457&extension=ts&play_token=nWUSz7t7um
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FR| EUROSPORT 360 8
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917456&extension=ts&play_token=Cjthv5kc1z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917444.png" group-title="WORLD LIVE SPORTS",FR| GOLF CHANNEL HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917444&extension=ts&play_token=EciyW4OE0h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917437.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917437&extension=ts&play_token=s6qAQTNO83
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917436.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917436&extension=ts&play_token=WzBWYuTNu5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917435.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917435&extension=ts&play_token=cJPURcrMNK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917434.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917434&extension=ts&play_token=y2A28EykjC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917433.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING 5
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917433&extension=ts&play_token=uZUvCU0Npk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917432.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING 6
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917432&extension=ts&play_token=73UZLTAV8M
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917431.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING 7
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917431&extension=ts&play_token=oHQ1VMaTtg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917430.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING 8
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917430&extension=ts&play_token=HIauvmQe4L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917429.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING GALOP
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917429&extension=ts&play_token=tAZ2s6IWWU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917428.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING MAG
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917428&extension=ts&play_token=z97qqjLnfw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917427.png" group-title="WORLD LIVE SPORTS",FR| EQUIDIA RACING TROT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917427&extension=ts&play_token=Gx7kEXdyR5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917389.png" group-title="WORLD LIVE SPORTS",FR| FIGHTBOX HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917389&extension=ts&play_token=dZYaWexQb5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917388.png" group-title="WORLD LIVE SPORTS",SF| SUPER FOOTBALL
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917388&extension=ts&play_token=kXsx2ZDpkY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917387.png" group-title="WORLD LIVE SPORTS",SF| SUPER FOOTBALL PLUS
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917387&extension=ts&play_token=PDmy1zEAgx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917386.png" group-title="WORLD LIVE SPORTS",SF| SUPER LA LIGA
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917386&extension=ts&play_token=MJMcv5uQE7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917385.png" group-title="WORLD LIVE SPORTS",SF| SUPER PREMIER LEAGUE
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917385&extension=ts&play_token=fJpBfv04S8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",AF| CANAL+ SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917384&extension=ts&play_token=g7BRMAZWcU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",AF| CANAL+ SPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917383&extension=ts&play_token=ribWFEl6jd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",AF| CANAL+ SPORT 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917382&extension=ts&play_token=mboj2hm6G4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",AF| CANAL+ SPORT 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917381&extension=ts&play_token=gqFI5DntGI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",AF| CANAL+ SPORT 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917380&extension=ts&play_token=GHsxCXumau
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",AF| CANAL+ SPORT  HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917379&extension=ts&play_token=qIHGw0XjWe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917378.png" group-title="WORLD LIVE SPORTS",AF| INFO SPORT + HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917378&extension=ts&play_token=5nQTaK2w1i
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917377.png" group-title="WORLD LIVE SPORTS",AF| SPORT EN FRANCE HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917377&extension=ts&play_token=tJUwHAwP3c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917376.png" group-title="WORLD LIVE SPORTS",AF| EQUIDIA HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917376&extension=ts&play_token=SL8p88aav7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917375.png" group-title="WORLD LIVE SPORTS",AF| W SPORT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917375&extension=ts&play_token=uLUw2R2JDt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1917746.png" group-title="WORLD LIVE SPORTS",###### SPAIN ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917746&extension=ts&play_token=uQA8LZu9oo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1955276.png" group-title="WORLD LIVE SPORTS",ES| LA LIGA 1 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1955276&extension=ts&play_token=jFQQ8pJPP1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1955275.png" group-title="WORLD LIVE SPORTS",ES| LA LIGA 2 FHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1955275&extension=ts&play_token=EDO6mdwf3j
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1955274.png" group-title="WORLD LIVE SPORTS",ES| LA LIGA 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1955274&extension=ts&play_token=vOHYr8CHUk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1955273.png" group-title="WORLD LIVE SPORTS",ES| LA LIGA 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1955273&extension=ts&play_token=aXLNLRTGjV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1955272.png" group-title="WORLD LIVE SPORTS",ES| LA LIGA 1 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1955272&extension=ts&play_token=jFHmNM52eW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1955271.png" group-title="WORLD LIVE SPORTS",ES| LA LIGA 2 SD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1955271&extension=ts&play_token=KbfWput0kT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| M.LALIGA
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917745&extension=ts&play_token=2zIxysXwYQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| M.LALIGA DE CAMPEONES HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917744&extension=ts&play_token=Xi0jBX044W
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| M.LALIGA DE CAMPEONES 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917743&extension=ts&play_token=McpaMF8aoy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| M.LALIGA DE CAMPEONES 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917742&extension=ts&play_token=tzR6GjvWCx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| M.LALIGA DE CAMPEONES 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917741&extension=ts&play_token=2KJunA3Wk7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| M.LALIGA DE CAMPEONES 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917740&extension=ts&play_token=dICjAGnWRk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| LALIGATV HYPERMOTION
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917739&extension=ts&play_token=19CPF3E0MW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| LALIGATV 2 HYPERMOTION
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917738&extension=ts&play_token=5cxuKSYOQf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png" group-title="WORLD LIVE SPORTS",ES| LALIGATV 3 HYPERMOTION
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917737&extension=ts&play_token=Qog7Bq33OY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1917736.png" group-title="WORLD LIVE SPORTS",ES| MOVISTAR GOLF
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917736&extension=ts&play_token=UIL3M5RszW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",ES| DAZNT F1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917735&extension=ts&play_token=NO302Mgqhj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",###### BLUE SPORT ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917734&extension=ts&play_token=DWvAkpgumt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",BLUE| BLUE ACTION
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917733&extension=ts&play_token=QP9pGgGfdx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",BLUE| BLUE SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917732&extension=ts&play_token=Ly0Qhg2Zr0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",BLUE| BLUE SPORT 1 UHD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917731&extension=ts&play_token=ARHWMJcwAS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",BLUE| BLUE SPORT 2 LIVE D
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917730&extension=ts&play_token=zcIujHDBoG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",BLUE| BLUE SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917729&extension=ts&play_token=AALsnn1sTy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",BLUE| BLUE SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917728&extension=ts&play_token=EdXyAwituy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",BLUE| BLUE ZOOM DE
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917727&extension=ts&play_token=YO08q5ICNi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BLUESPORT.png" group-title="WORLD LIVE SPORTS",BLUE| BLUE ZOOM FR
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917726&extension=ts&play_token=6f7tEkKlys
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917621.png" group-title="WORLD LIVE SPORTS",###### POLAND ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917621&extension=ts&play_token=PIJpTN45JD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ 4K ULTRA HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917620&extension=ts&play_token=z4vLwPRHKu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917619.png" group-title="WORLD LIVE SPORTS",PL| ELEVEN 4K
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917619&extension=ts&play_token=rhZCgjAxF4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917618.png" group-title="WORLD LIVE SPORTS",PL| ELEVEN SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917618&extension=ts&play_token=WINW4r47VS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917617.png" group-title="WORLD LIVE SPORTS",PL| ELEVEN SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917617&extension=ts&play_token=1T2Ss4VLAr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917616.png" group-title="WORLD LIVE SPORTS",PL| ELEVEN SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917616&extension=ts&play_token=A7NyHzm4bH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917615.png" group-title="WORLD LIVE SPORTS",PL| ELEVEN SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917615&extension=ts&play_token=ddNl3FjYy8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917614.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917614&extension=ts&play_token=D12K5r6ube
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917613.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917613&extension=ts&play_token=M3zhHE3z8J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917612.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917612&extension=ts&play_token=1bXXK6XbGU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917611.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT PREMIUM 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917611&extension=ts&play_token=5kTI1uIN6t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917610.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT PREMIUM 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917610&extension=ts&play_token=L5R3uR3UV7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917609.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT EXTRA 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917609&extension=ts&play_token=vgriBVD13M
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917608.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT EXTRA 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917608&extension=ts&play_token=O4FhYp2bc1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917607.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT EXTRA 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917607&extension=ts&play_token=XxkhNfSvZo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917606.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT EXTRA 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917606&extension=ts&play_token=L0AnoC6n65
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917605.png" group-title="WORLD LIVE SPORTS",PL| POLSAT SPORT FIGHT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917605&extension=ts&play_token=hezoYiTdQ6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917604.png" group-title="WORLD LIVE SPORTS",PL| POLSAT GAMES
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917604&extension=ts&play_token=3Jt38iBoBD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ 360
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917603&extension=ts&play_token=PBI4frED4u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ PREMIUM
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917602&extension=ts&play_token=lwETBLyClA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917601&extension=ts&play_token=p6cCzpUzPM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917600&extension=ts&play_token=ugbqblkS1I
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917599&extension=ts&play_token=LzgrTVq7es
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917598&extension=ts&play_token=k1i3uUBPnb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917597&extension=ts&play_token=FgBBkTP4Pg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917596&extension=ts&play_token=iUa6daG5Zm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 7 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917595&extension=ts&play_token=dJfCfPaWje
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917594&extension=ts&play_token=bVOewsW19h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917593&extension=ts&play_token=V0WKwT8u7T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917592&extension=ts&play_token=jj7xIfbJam
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917591&extension=ts&play_token=d8DXsXRFpU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ SPORT 5
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917590&extension=ts&play_token=4OjzjNf0qz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ SPORT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917589&extension=ts&play_token=zzvSmMYyx4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",PL| EURONEWS HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917588&extension=ts&play_token=2OTkcmIypH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",PL| EUROSPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917587&extension=ts&play_token=k8uzy3uyyw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",PL| EUROSPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917586&extension=ts&play_token=NBO8IqeFtB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917585.png" group-title="WORLD LIVE SPORTS",PL| FIGHT KLUB HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917585&extension=ts&play_token=dkU14kwI44
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917584.png" group-title="WORLD LIVE SPORTS",PL| EXTREME SPORTS HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917584&extension=ts&play_token=rZEbB0FCTl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917583.png" group-title="WORLD LIVE SPORTS",PL|  TVP SPORT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917583&extension=ts&play_token=pTd1U88LyQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 8 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917582&extension=ts&play_token=3HTlkR7MyB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 9 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917581&extension=ts&play_token=m0ITzAX66E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 10 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917580&extension=ts&play_token=zOZy3JwN8f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 11 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917579&extension=ts&play_token=Bq8HwmZeyE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 12 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917578&extension=ts&play_token=9N7Jr3QQRO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 13 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917577&extension=ts&play_token=mke323DxOA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 14 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917576&extension=ts&play_token=EBxNVjS0qa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 15 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917575&extension=ts&play_token=HDLFBXg0B7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 16 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917574&extension=ts&play_token=VgCmILIzAu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 17 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917573&extension=ts&play_token=gkj7vWWEZr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EXTRA 18 PPV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917572&extension=ts&play_token=Yj8OkXrK65
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EVENT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917571&extension=ts&play_token=oNKzmyShje
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EVENT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917570&extension=ts&play_token=HdZjt4gAgM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EVENT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917569&extension=ts&play_token=jfOr2eMJcY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="WORLD LIVE SPORTS",PL| CANAL+ EVENT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917568&extension=ts&play_token=vPXqLCLDpt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917567.png" group-title="WORLD LIVE SPORTS",PL| FIGHTKLUB HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917567&extension=ts&play_token=hlflgMqnpO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/1917725.png" group-title="WORLD LIVE SPORTS",###### ITALY ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917725&extension=ts&play_token=tOpP8nSzsL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 24
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917724&extension=ts&play_token=uhL7JtmSND
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 251
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917723&extension=ts&play_token=BACTjr5wMR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 252
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917722&extension=ts&play_token=9B9XbkCd8C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 253
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917721&extension=ts&play_token=QHAQ4ps2in
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 254
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917720&extension=ts&play_token=zdqnUfZfpo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 255
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917719&extension=ts&play_token=wJjvVdD0VR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 256
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917718&extension=ts&play_token=zK5KKIARbS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 257
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917717&extension=ts&play_token=iO8cm9eqNt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 258
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917716&extension=ts&play_token=zXKEcNkXOz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT 259
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917715&extension=ts&play_token=82OCn5UzDx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT ARENA
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917714&extension=ts&play_token=Y0daRysib6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT NBA BASKET
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917713&extension=ts&play_token=kljhryXdN0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT CALCIO
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917712&extension=ts&play_token=v332BjNjf8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT F1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917711&extension=ts&play_token=uxAokncTB0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT GOLF
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917710&extension=ts&play_token=s4D4qmZc06
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT LEGEND
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917709&extension=ts&play_token=lS8XtIqRjE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT MAX
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917708&extension=ts&play_token=OTdg40EdC2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT MIX
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917707&extension=ts&play_token=xh3dZnWLO6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT MOTOGP
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917706&extension=ts&play_token=KERoahIZDE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT TENNIS
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917705&extension=ts&play_token=B0d95gsxqd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="WORLD LIVE SPORTS",IT| SKY SPORT UNO
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917704&extension=ts&play_token=PeLboKUROW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/1917703.png" group-title="WORLD LIVE SPORTS",IT| RAI SPORT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917703&extension=ts&play_token=sN6MQvaxUh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN ACL CORNHOLE TV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917702&extension=ts&play_token=W7VTLNHNDD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN BILLIARD TV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917701&extension=ts&play_token=cOFso1n7Cc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN MATCHROOM BOXING HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917700&extension=ts&play_token=Tblw9UMZ5r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN BOXING TV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917699&extension=ts&play_token=UkfF4jSjF6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN BOXING TV 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917698&extension=ts&play_token=ZcqQqM5xfD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN BOXING TV 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917697&extension=ts&play_token=KloervPiQy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN BOXING TV 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917696&extension=ts&play_token=1cgkPt23xk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN BOXING TV 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917695&extension=ts&play_token=1RNwskSIqC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN COMBAT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917694&extension=ts&play_token=b8T4ghbS1l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN UNBEATEN HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917693&extension=ts&play_token=04Tm7UneWd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN ZONA IT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917692&extension=ts&play_token=91t4SLig7L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",IT| DAZN EUROSPORT 1 IT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917691&extension=ts&play_token=i0RRyM78xD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",IT| DAZN EUROSPORT 2 IT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917690&extension=ts&play_token=y2DrXtx7Gm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN INTER MILAN TV IT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917689&extension=ts&play_token=3raiUxKyzB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN LACROSSE TV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917688&extension=ts&play_token=1BZmOIHWXr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN MBL HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917687&extension=ts&play_token=LoMqpLYYFu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN MILAN TV IT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917686&extension=ts&play_token=PFGM7XGAts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN MOTORVISION TV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917685&extension=ts&play_token=g9hUnCu5qR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN NBA HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917684&extension=ts&play_token=FCVURkRsNT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN NFL NETWORK
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917683&extension=ts&play_token=I44NYUoOOX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN PDC DARTS HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917682&extension=ts&play_token=1L4WVLAR1C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN PGA TOUR HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917681&extension=ts&play_token=rPmt5n0dQt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN PLL NETWORK HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917680&extension=ts&play_token=sXcGl85OiS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN POWER SPORTS WORLD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917679&extension=ts&play_token=59RFkA4xpM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN RED BULL TV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917678&extension=ts&play_token=mmS6jitpJa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN MOTO AMERICA HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917677&extension=ts&play_token=RRBbNcqZQc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN 1 FAST+ HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917676&extension=ts&play_token=R4y1m85D6K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="WORLD LIVE SPORTS",IT| DAZN 2 ES HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917675&extension=ts&play_token=SuAnVaoY2H
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1917674.png" group-title="WORLD LIVE SPORTS",###### FINLAND ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917674&extension=ts&play_token=qvcSHczbPk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FL| EUROSPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917673&extension=ts&play_token=T6OpA7PXgH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",FL| EUROSPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917672&extension=ts&play_token=rkNPVc1aLr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1917671.png" group-title="WORLD LIVE SPORTS",FL| MTV URHEILU 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917671&extension=ts&play_token=RBveKb7YCR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1917670.png" group-title="WORLD LIVE SPORTS",FL| MTV URHEILU 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917670&extension=ts&play_token=j80MzGHhOM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1917669.png" group-title="WORLD LIVE SPORTS",FL| V SPORT + SUOMI HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917669&extension=ts&play_token=LGecvjynyb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1917668.png" group-title="WORLD LIVE SPORTS",FL| V SPORT FOOTBALL HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917668&extension=ts&play_token=zeXiX5lsDK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1917667.png" group-title="WORLD LIVE SPORTS",FL| V SPORT GOLF HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917667&extension=ts&play_token=X247UbKuf0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917666.png" group-title="WORLD LIVE SPORTS",FL| V SPORT MOTOR HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917666&extension=ts&play_token=5muePRXmjf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917665.png" group-title="WORLD LIVE SPORTS",FL| V SPORT VINTER HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917665&extension=ts&play_token=xE18IOvqdi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917664.png" group-title="WORLD LIVE SPORTS",FL| VIASAT SPORT 1 SUOMI HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917664&extension=ts&play_token=sPqnL6J5FV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917663.png" group-title="WORLD LIVE SPORTS",FL| VIASAT SPORT 2 SUOMI HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917663&extension=ts&play_token=OcbdbujTB9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917662.png" group-title="WORLD LIVE SPORTS",###### LATVIA ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917662&extension=ts&play_token=2TUyYJyRZT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917661.png" group-title="WORLD LIVE SPORTS",LV| BEST4SPORT TV HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917661&extension=ts&play_token=GP1IXiSV4S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917660.png" group-title="WORLD LIVE SPORTS",LV| BEST4SPORT TV-2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917660&extension=ts&play_token=Xo0fBXRJgm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",LV| EUROSPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917659&extension=ts&play_token=so6flZXIH9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",LV| EUROSPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917658&extension=ts&play_token=hlunOV94LK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917657.png" group-title="WORLD LIVE SPORTS",LV| GO3 SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917657&extension=ts&play_token=W27HEvGl0J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917656.png" group-title="WORLD LIVE SPORTS",LV| GO3 SPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917656&extension=ts&play_token=eDvUxFuJ5B
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917655.png" group-title="WORLD LIVE SPORTS",LV| GO3 SPORT 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917655&extension=ts&play_token=asMmose2Yc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917654.png" group-title="WORLD LIVE SPORTS",LV| GO3 SPORT OPEN HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917654&extension=ts&play_token=tYcBkFanRr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917653.png" group-title="WORLD LIVE SPORTS",LV| SETANTA SPORTS 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917653&extension=ts&play_token=aVVEKM0mFj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917652.png" group-title="WORLD LIVE SPORTS",LV| SETANTA SPORTS 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917652&extension=ts&play_token=dB5MQzR7dd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917651.png" group-title="WORLD LIVE SPORTS",LV| TV3 LIFE HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917651&extension=ts&play_token=DD7THmdi1u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917650.png" group-title="WORLD LIVE SPORTS",LV| NBA
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917650&extension=ts&play_token=7frjDtnuSP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917649.png" group-title="WORLD LIVE SPORTS",LV| FIGHT SPORTS HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917649&extension=ts&play_token=uE1u3V1sRX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917648.png" group-title="WORLD LIVE SPORTS",###### CHILE ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917648&extension=ts&play_token=Yfo8mDu5zA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917647.png" group-title="WORLD LIVE SPORTS",CL| ESPN 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917647&extension=ts&play_token=PXf3LShnbC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1917646.png" group-title="WORLD LIVE SPORTS",CL| ESPN 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917646&extension=ts&play_token=Xn5dPFw72G
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1917645.png" group-title="WORLD LIVE SPORTS",CL| ESPN 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917645&extension=ts&play_token=q90pQ3hGOg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1917644.png" group-title="WORLD LIVE SPORTS",CL| ESPN 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917644&extension=ts&play_token=8nZ5vNV07b
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1917643.png" group-title="WORLD LIVE SPORTS",CL| ESPORTS CHILE
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917643&extension=ts&play_token=5uAKPjsMY5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1917642.png" group-title="WORLD LIVE SPORTS",CL| GOLF CHANNEL
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917642&extension=ts&play_token=1o45z3tB80
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1917641.png" group-title="WORLD LIVE SPORTS",CL| TNT SPORT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917641&extension=ts&play_token=v5lBZQOMZW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1917640.png" group-title="WORLD LIVE SPORTS",CL| TYC SPORT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917640&extension=ts&play_token=OplZ4SMaef
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917373.png" group-title="WORLD LIVE SPORTS",###### GREECE ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917373&extension=ts&play_token=YLiZt6BYw4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",GR| EUROSPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917372&extension=ts&play_token=NOtHApFuPT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",GR| EUROSPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917371&extension=ts&play_token=0EmMpEymnZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917370.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS PRIME
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917370&extension=ts&play_token=BH88zGTE51
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917369.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS START
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917369&extension=ts&play_token=DPuNaA506f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917368.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS NEWS
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917368&extension=ts&play_token=QK42CQiWQl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917367.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS PREMIER LEAGUE
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917367&extension=ts&play_token=ZjGpvAlsfs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917366.png" group-title="WORLD LIVE SPORTS",GR| ERT SPORTS 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917366&extension=ts&play_token=5mEyumb1RD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917365.png" group-title="WORLD LIVE SPORTS",GR| ERT SPORTS 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917365&extension=ts&play_token=gssaBYCLK3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917364.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917364&extension=ts&play_token=Ys8tt4G7ur
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917363.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917363&extension=ts&play_token=NjeXyMa6LH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917362.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917362&extension=ts&play_token=uPEKKRsS2M
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917361.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917361&extension=ts&play_token=bdYKFWMlFy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917360.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917360&extension=ts&play_token=2Y3f0Ktjkw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917359.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917359&extension=ts&play_token=wOs2ImmJoj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917358.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS PRIME
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917358&extension=ts&play_token=CFdFp2BIbb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917357.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS START
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917357&extension=ts&play_token=q93uWl2Hjf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917356.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 24 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917356&extension=ts&play_token=klgiQWFLZ2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917355.png" group-title="WORLD LIVE SPORTS",GR| NOVA EXTRA SPORTS 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917355&extension=ts&play_token=Pm12r88kQX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917354.png" group-title="WORLD LIVE SPORTS",GR| NOVA EXTRA SPORTS 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917354&extension=ts&play_token=BUuJeE0Jdh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917353.png" group-title="WORLD LIVE SPORTS",GR| NOVA EXTRA SPORTS 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917353&extension=ts&play_token=17TsHeBs3Y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917352.png" group-title="WORLD LIVE SPORTS",GR| NOVA EXTRA SPORTS 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917352&extension=ts&play_token=AbhxjWvLeZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917351.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917351&extension=ts&play_token=WxyzBInJxg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917350.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917350&extension=ts&play_token=mIr90n4vyY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917349.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917349&extension=ts&play_token=qSNT6OhcmD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917348.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917348&extension=ts&play_token=DYetzA9r49
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917347.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917347&extension=ts&play_token=eCGRca8ZlE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917346.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917346&extension=ts&play_token=MGDbKzOh4E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917345.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 7 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917345&extension=ts&play_token=w6bfo3CVEV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917344.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 8 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917344&extension=ts&play_token=w3TE3Gjaw6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917343.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 9 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917343&extension=ts&play_token=8xFZyoOQ6v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917342.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS HIGHLIGHT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917342&extension=ts&play_token=5SSNhMFcna
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917341.png" group-title="WORLD LIVE SPORTS",GR| GINX TV SPORT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917341&extension=ts&play_token=0TgUULuJc0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917337.png" group-title="WORLD LIVE SPORTS",###### ALBANIA ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917337&extension=ts&play_token=OLxAb51XNe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917336.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917336&extension=ts&play_token=nn7M1sONGn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917335.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917335&extension=ts&play_token=7zl29iJk0t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917334.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917334&extension=ts&play_token=DjRIQhM4ki
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917333.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917333&extension=ts&play_token=msE6oaKmfr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917332.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 5
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917332&extension=ts&play_token=g0qu93ZyWM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917331.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 6
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917331&extension=ts&play_token=3JlhsIwhkV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917330.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 7
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917330&extension=ts&play_token=pstti1Wq11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917311.png" group-title="WORLD LIVE SPORTS",###### BOSNIA ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917311&extension=ts&play_token=d3QSSdhtKj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917310.png" group-title="WORLD LIVE SPORTS",BH| ARENA PREMIUM 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917310&extension=ts&play_token=BHEsiJnxwT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917309.png" group-title="WORLD LIVE SPORTS",BH| ARENA PREMIUM 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917309&extension=ts&play_token=d1zPwYVvWr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917308.png" group-title="WORLD LIVE SPORTS",BH| ARENA PREMIUM 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917308&extension=ts&play_token=M9MBk54L5V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917307.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917307&extension=ts&play_token=Vm1o3dA91Z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917306.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917306&extension=ts&play_token=WauJWADyUh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917305.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917305&extension=ts&play_token=Un77CUVdvz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917304.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917304&extension=ts&play_token=m7XaUoJowf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917303.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 5
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917303&extension=ts&play_token=hHb6cEhSvC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917302.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 6
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917302&extension=ts&play_token=CxYHbAhnsW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917244.png" group-title="WORLD LIVE SPORTS",###### BULGARIA ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917244&extension=ts&play_token=3JtRd9FlZI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917243.png" group-title="WORLD LIVE SPORTS",BG| DIEMA SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917243&extension=ts&play_token=pgIhj9aUxM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917242.png" group-title="WORLD LIVE SPORTS",BG| DIEMA SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917242&extension=ts&play_token=vdl0LxdEJv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917241.png" group-title="WORLD LIVE SPORTS",BG| DIEMA SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917241&extension=ts&play_token=TnDAkwbzmG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",BG| EUROSPORT2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917234&extension=ts&play_token=2X9UM8hGbC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",BG| EUROSPORT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917235&extension=ts&play_token=CPgG24DwGD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917233.png" group-title="WORLD LIVE SPORTS",BG| FIGHT BOX HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917233&extension=ts&play_token=byNOwJdqYX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917231.png" group-title="WORLD LIVE SPORTS",BG| FIGHTKLUB HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917231&extension=ts&play_token=gGO9ILebh6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917232.png" group-title="WORLD LIVE SPORTS",BG| FIGHT NETWORK HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917232&extension=ts&play_token=8sLEJ6KbxD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917230.png" group-title="WORLD LIVE SPORTS",BG| GAMETOON HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917230&extension=ts&play_token=loD8bp847Q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917240.png" group-title="WORLD LIVE SPORTS",BG| MAX SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917240&extension=ts&play_token=zWp1pr9zw6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917239.png" group-title="WORLD LIVE SPORTS",BG| MAX SPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917239&extension=ts&play_token=Ko0FaWQNJN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917238.png" group-title="WORLD LIVE SPORTS",BG| MAX SPORT 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917238&extension=ts&play_token=BnncUxrunZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917237.png" group-title="WORLD LIVE SPORTS",BG| MAX SPORT 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917237&extension=ts&play_token=qc14ryapln
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917236.png" group-title="WORLD LIVE SPORTS",BG| NOVA SPORT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917236&extension=ts&play_token=7jpz55MOFd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917229.png" group-title="WORLD LIVE SPORTS",BG| RING HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917229&extension=ts&play_token=Bx4ZDXqEO5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917329.png" group-title="WORLD LIVE SPORTS",###### SERBIA ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917329&extension=ts&play_token=voacxVULf6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917315.png" group-title="WORLD LIVE SPORTS",SR| ARENA ESPORT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917315&extension=ts&play_token=a7cneusvAO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917314.png" group-title="WORLD LIVE SPORTS",SR| ARENA FIGHT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917314&extension=ts&play_token=ZHkPPf9VvU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917328.png" group-title="WORLD LIVE SPORTS",SR| ARENA PREMIUM 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917328&extension=ts&play_token=KuhY8wCZ33
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917327.png" group-title="WORLD LIVE SPORTS",SR| ARENA PREMIUM 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917327&extension=ts&play_token=Igh2LHSMtC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917326.png" group-title="WORLD LIVE SPORTS",SR| ARENA PREMIUM 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917326&extension=ts&play_token=2VNUA8n2k1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917325.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917325&extension=ts&play_token=TtINlwzJQy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917324.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917324&extension=ts&play_token=zy8DenrlAX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917323.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917323&extension=ts&play_token=Mu4MLkllre
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917322.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917322&extension=ts&play_token=TmzuatSwIF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917321.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 5
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917321&extension=ts&play_token=zEeWJECCQ0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917320.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 6
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917320&extension=ts&play_token=EQftNUlxWd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917319.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 7
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917319&extension=ts&play_token=lWNrUD0Kpg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917318.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 8
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917318&extension=ts&play_token=LvJur55VnF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917317.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 9
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917317&extension=ts&play_token=XnQ05hSw0a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917316.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 10
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917316&extension=ts&play_token=mnTryTDkSa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",SR| EUROSPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917313&extension=ts&play_token=cJ1rpZUNvr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",SR| EUROSPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917312&extension=ts&play_token=JlZNUFpTkA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917261.png" group-title="WORLD LIVE SPORTS",###### ROMANIA ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917261&extension=ts&play_token=snRywz8WD1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917260.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917260&extension=ts&play_token=ifmuxgSO3o
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917259.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917259&extension=ts&play_token=n4La5j8rwr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917258.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917258&extension=ts&play_token=mK8Ik4cVzM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917257.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917257&extension=ts&play_token=ZnZ23sir1U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917256.png" group-title="WORLD LIVE SPORTS",RO| EUROSPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917256&extension=ts&play_token=ni5wyJgOsK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917255.png" group-title="WORLD LIVE SPORTS",RO| EUROSPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917255&extension=ts&play_token=AQ8Ub0uFlT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917254.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917254&extension=ts&play_token=KI5B960lzI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917253.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917253&extension=ts&play_token=lvSDcZbbzO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917252.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917252&extension=ts&play_token=HvxQMrHEr8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917251.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917251&extension=ts&play_token=SybogYm6Jx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917250.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917250&extension=ts&play_token=DWLiDk7IxD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917249.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT PPV1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917249&extension=ts&play_token=XfFHu6qPdK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917248.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT PPV2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917248&extension=ts&play_token=3v1aVOBdd3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917247.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT PPV3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917247&extension=ts&play_token=8V8iMiV2xH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917246.png" group-title="WORLD LIVE SPORTS",RO| SPORT EXTRA HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917246&extension=ts&play_token=OEIkzY7h3W
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917245.png" group-title="WORLD LIVE SPORTS",RO| TVR SPORT HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917245&extension=ts&play_token=VZGo3TuoA3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917301.png" group-title="WORLD LIVE SPORTS",###### CROATIA ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917301&extension=ts&play_token=LYiltj8v4N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917290.png" group-title="WORLD LIVE SPORTS",HR| ARENA ESPORT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917290&extension=ts&play_token=gZiHFo01DQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917289.png" group-title="WORLD LIVE SPORTS",HR| ARENA FIGHT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917289&extension=ts&play_token=00ejvm8jb4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917300.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917300&extension=ts&play_token=ooI2kfihRN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917299.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917299&extension=ts&play_token=Tjuqxyw6k0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917298.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917298&extension=ts&play_token=kLhDWW76wn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917297.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917297&extension=ts&play_token=HwRqIjvHAV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917296.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 5
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917296&extension=ts&play_token=n0wclKkeYL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917295.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 6
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917295&extension=ts&play_token=UV1tHVr2wT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917294.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 7
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917294&extension=ts&play_token=qXFLgFpiDK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917293.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 8
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917293&extension=ts&play_token=evoVCNeQHE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917292.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 9
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917292&extension=ts&play_token=PY0NlEIXLb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917291.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 10
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917291&extension=ts&play_token=8vaeB0CFcd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917281.png" group-title="WORLD LIVE SPORTS",HR| MAX SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917281&extension=ts&play_token=6omYu3LW2b
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917280.png" group-title="WORLD LIVE SPORTS",HR| MAX SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917280&extension=ts&play_token=RDnWI7jLhb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917278.png" group-title="WORLD LIVE SPORTS",HR| NOVA SPORT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917278&extension=ts&play_token=IBJsTPKluP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917279.png" group-title="WORLD LIVE SPORTS",HR| SOPRT 1 T
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917279&extension=ts&play_token=wXwvs17Ulm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917287.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 1 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917287&extension=ts&play_token=wltonbL2Ul
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917286.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 2 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917286&extension=ts&play_token=KyEqFXKO23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917285.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 3 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917285&extension=ts&play_token=idlNa9W78t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917284.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 4 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917284&extension=ts&play_token=3IpiAqQi4q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917283.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 5 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917283&extension=ts&play_token=nk4y3rc6IN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917282.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 6 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917282&extension=ts&play_token=JAXj8Zyjc6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1981111.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 7 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1981111&extension=ts&play_token=NXnZpWEUhP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1981110.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 8 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1981110&extension=ts&play_token=pOt8Fbyfse
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1981109.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 9 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1981109&extension=ts&play_token=2AH191WCA4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1981108.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 10 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1981108&extension=ts&play_token=H7Sux6oO8r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1981107.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 11 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1981107&extension=ts&play_token=CJ24h0bacR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1981106.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 12 HD
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1981106&extension=ts&play_token=zXqeZYM3gh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1981105.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB GOLF
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1981105&extension=ts&play_token=I8qoJJsE5R
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1981104.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB FIGHT
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1981104&extension=ts&play_token=Hj4PhJSXK1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917288.png" group-title="WORLD LIVE SPORTS",HR| SPORTSKA TV
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917288&extension=ts&play_token=yLKnOQxYsf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917277.png" group-title="WORLD LIVE SPORTS",###### SLOVENIA ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917277&extension=ts&play_token=9139vNfmtU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917273.png" group-title="WORLD LIVE SPORTS",SI| ARENA PREMIUM 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917273&extension=ts&play_token=22oFe04RqK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917272.png" group-title="WORLD LIVE SPORTS",SI| ARENA SPORT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917272&extension=ts&play_token=32kH90XZh9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917271.png" group-title="WORLD LIVE SPORTS",SI| ARENA SPORT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917271&extension=ts&play_token=noBrlgGN4r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917270.png" group-title="WORLD LIVE SPORTS",SI| ARENA SPORT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917270&extension=ts&play_token=woXs7S88YA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917269.png" group-title="WORLD LIVE SPORTS",SI| ARENA SPORT 4
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917269&extension=ts&play_token=di1Uk294p3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917268.png" group-title="WORLD LIVE SPORTS",SI| SPORT KLUB 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917268&extension=ts&play_token=VnwY8Dl3fr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917267.png" group-title="WORLD LIVE SPORTS",SI| SPORT KLUB 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917267&extension=ts&play_token=lyJxJDpaxC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917266.png" group-title="WORLD LIVE SPORTS",SI| SPORT KLUB 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917266&extension=ts&play_token=X0V8V2KAga
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917276.png" group-title="WORLD LIVE SPORTS",SI| SPORT TV 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917276&extension=ts&play_token=8r1ZFQByd3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917275.png" group-title="WORLD LIVE SPORTS",SI| SPORT TV 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917275&extension=ts&play_token=68P4UdhZqF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917274.png" group-title="WORLD LIVE SPORTS",SI| SPORT TV 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917274&extension=ts&play_token=JaSZ1kMVQC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917265.png" group-title="WORLD LIVE SPORTS",###### MONTENEGRO ######
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917265&extension=ts&play_token=DBcEsskhft
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917264.png" group-title="WORLD LIVE SPORTS",ME| MNE SOPRT 1
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917264&extension=ts&play_token=prJ0Q8BLQ9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917263.png" group-title="WORLD LIVE SPORTS",ME| MNE SOPRT 2
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917263&extension=ts&play_token=tqZNvXpGqA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917262.png" group-title="WORLD LIVE SPORTS",ME| MNE SOPRT 3
+http://official8k.com:80/play/live.php?mac=00:1A:79:02:A1:61&stream=1917262&extension=ts&play_token=qXawxq02I5
 
